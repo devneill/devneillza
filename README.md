@@ -3,7 +3,7 @@
 
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=devneillza&skills=JavaScript,Ruby&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=devneillza&skills=JavaScript,Ruby&width=820&style=--header-bg-color:%23000"
 />
 
 <img
