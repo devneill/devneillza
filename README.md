@@ -5,6 +5,10 @@
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=devneillza&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=devneillza&skills=Vue,React,JavaScript,Ruby,SCSS&width=820"
+/>
+
 <!--
 **devneillza/devneillza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
