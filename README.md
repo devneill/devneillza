@@ -1,10 +1,9 @@
 
 ![Yellow Illustrated Deer Twitter Header(1)](https://user-images.githubusercontent.com/35456245/117655068-e0d1f900-b196-11eb-9e3e-ba815c85f675.png)
 
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/summary@0.9.11/codersrank-summary.min.js"></script>
-
-<codersrank-summary username="devneillza"></codersrank-summary>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=devneillza&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 
 <!--
 **devneillza/devneillza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
