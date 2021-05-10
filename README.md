@@ -2,11 +2,11 @@
 ![Yellow Illustrated Deer Twitter Header(1)](https://user-images.githubusercontent.com/35456245/117655068-e0d1f900-b196-11eb-9e3e-ba815c85f675.png)
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=devneillza&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=devneillza&badges=0&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px;--width:%100"
 />
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=devneillza&skills=Vue,React,JavaScript,Ruby,SCSS&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=devneillza&skills=JavaScript,Ruby&width=820"
 />
 
 <!--
