@@ -7,7 +7,7 @@
 />
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=devneillza&badges=0&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px;--width:%100"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=devneillza&badges=0&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
 
 <!--
