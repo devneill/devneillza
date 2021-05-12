@@ -1,10 +1,6 @@
 
 ![Yellow Illustrated Deer Twitter Header(1)](https://user-images.githubusercontent.com/35456245/117655068-e0d1f900-b196-11eb-9e3e-ba815c85f675.png)
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=devneillza&badges=0&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-
 <!--
 **devneillza/devneillza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
